@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'JeffPod'
+  s.name             = 'JeffPod3'
   s.version          = '0.1.0'
   s.summary          = 'A short description of JeffPod.'
 
