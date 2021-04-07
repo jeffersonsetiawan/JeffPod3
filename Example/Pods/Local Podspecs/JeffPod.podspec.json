@@ -1,0 +1,22 @@
+{
+  "name": "JeffPod",
+  "version": "0.1.0",
+  "summary": "A short description of JeffPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jefferson Setiawan/JeffPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jefferson Setiawan": "jefferson.setiawan@tokopedia.com"
+  },
+  "source": {
+    "git": "https://github.com/Jefferson Setiawan/JeffPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JeffPod/Classes/**/*"
+}

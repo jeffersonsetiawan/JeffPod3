@@ -1,0 +1,16 @@
+PODS:
+  - JeffPod (0.1.0)
+
+DEPENDENCIES:
+  - JeffPod (from `../`)
+
+EXTERNAL SOURCES:
+  JeffPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JeffPod: a8bb2c2c67974bf938290f2a9876776b8f6bb47b
+
+PODFILE CHECKSUM: 9a98fa39704781d642b841959734910c7dfb2316
+
+COCOAPODS: 1.10.1

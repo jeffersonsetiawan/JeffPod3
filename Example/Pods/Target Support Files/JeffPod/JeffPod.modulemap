@@ -1,0 +1,6 @@
+framework module JeffPod {
+  umbrella header "JeffPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
